@@ -9,7 +9,7 @@ Add OBS BrowserSource with URL: http://localhost:5777/index.htm
 
 Fill your Twitch credentials to file appsettings.json:
 - Twitch username
-- Twitch Bot Token from https://twitchtokengenerator.com/quick/B9C46R4wmJ
+- Access Token and Client ID must be get from here: https://twitchtokengenerator.com/quick/B9C46R4wmJ
 
 Example:
 ```
@@ -22,5 +22,6 @@ Example:
 ```
 
 Commands:
-- !so username
--- Shouts out typed user
+- !so username - Shouts out typed user
+- !title titlemessage - Changes Twitch channel title
+- !game gamename - Changes Twitch channel game
