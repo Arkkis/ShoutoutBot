@@ -3,7 +3,7 @@
 Download: https://github.com/Arkkis/ShoutoutBot/releases/latest
 
 Requirements:
-- .NET 6 Runtime (should be asked automatically when you first start the bot)
+- Hosting Bundle https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime
 
 Add OBS BrowserSource with URL: http://localhost:5777/index.htm
 
