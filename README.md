@@ -9,7 +9,7 @@ Add OBS BrowserSource with URL: http://localhost:5777/index.htm
 
 Fill your Twitch credentials to file appsettings.json:
 - Twitch username
-- Twitch Chat Token from https://twitchapps.com/tmi/
+- Twitch Bot Token from https://twitchtokengenerator.com/quick/B9C46R4wmJ
 
 Example:
 ```
