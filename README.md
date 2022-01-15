@@ -1,5 +1,7 @@
 # ShoutoutBot
 
+Download: https://github.com/Arkkis/ShoutoutBot/releases/latest
+
 Requirements:
 - .NET 6 Runtime (should be asked automatically when you first start the bot)
 
