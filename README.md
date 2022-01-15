@@ -20,3 +20,7 @@ Example:
   }
 }
 ```
+
+Commands:
+- !so username
+-- Shouts out typed user
