@@ -2,22 +2,22 @@
 
 Download: https://github.com/Arkkis/ShoutoutBot/releases/latest
 
-Requirements:
-- Hosting Bundle (the most right option) https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime
+Add Shoutout layout to OBS BrowserSource with URL: http://localhost:5777/index.htm
+Add Now Playing to OBS BrowserSource with URL: http://localhost:5777/np.htm
 
-Add OBS BrowserSource with URL: http://localhost:5777/index.htm
-
-Fill your Twitch credentials to file appsettings.json:
-- Twitch username
-- Access Token and Client ID must be get from here: https://twitchtokengenerator.com/quick/B9C46R4wmJ
-
-Example:
+Application settings are stored in appsettings.json:
 ```
 {
   "Twitch": {
     "Username": "arkkis",
     "ChatAccessToken": "öovny5ov32po5v73256on37632"
     "ClientId": "k6tali5k6bvilak43b6vl3aik64va"
+  },
+  "General": {
+    "ShowLogging": true,
+    "UseShoutoutLayout": true,
+    "ShoutoutUserOnChat": true,
+    "UseNpCommand": true
   }
 }
 ```
