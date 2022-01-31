@@ -3,6 +3,7 @@
 Download: https://github.com/Arkkis/ShoutoutBot/releases/latest
 
 Add Shoutout layout to OBS BrowserSource with URL: http://localhost:5777/index.htm
+
 Add Now Playing to OBS BrowserSource with URL: http://localhost:5777/np.htm
 
 Application settings are stored in appsettings.json:
