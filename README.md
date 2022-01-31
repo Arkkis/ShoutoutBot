@@ -6,7 +6,7 @@ Add Shoutout layout to OBS BrowserSource with URL: http://localhost:5777/index.h
 
 Add Now Playing to OBS BrowserSource with URL: http://localhost:5777/np.htm
 
-Application settings are stored in appsettings.json:
+Application settings are stored in ```Documents\shoutoutbot_settings.json```:
 ```
 {
   "Twitch": {
