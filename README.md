@@ -6,6 +6,8 @@ Add Shoutout layout to OBS BrowserSource with URL: http://localhost:5777/index.h
 
 Add Now Playing to OBS BrowserSource with URL: http://localhost:5777/np.htm
 
+Logging is written to ```Documents\shoutoutbot_logs.log```:
+
 Application settings are stored in ```Documents\shoutoutbot_settings.json```:
 ```
 {
