@@ -1,6 +1,7 @@
 # ShoutoutBot
 
 Requirement: https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe
+
 Download: https://github.com/Arkkis/ShoutoutBot/releases/latest
 
 Add Shoutout layout to OBS BrowserSource with URL: http://localhost:5777/index.htm
